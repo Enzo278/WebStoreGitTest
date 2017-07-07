@@ -11,6 +11,7 @@ namespace WebStoreGitTest
         static void Main(string[] args)
         {
             //Ciao, test di prova
+            //...continuo
         }
     }
 }
