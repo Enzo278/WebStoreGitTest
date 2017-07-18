@@ -12,6 +12,8 @@ namespace WebStoreGitTest
         {
             //Ciao, test di prova
             //...continuo
+			
+			//commento git
         }
     }
 }
